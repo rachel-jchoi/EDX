@@ -1,2 +1,0 @@
-# EDX
-Created with CodeSandbox
